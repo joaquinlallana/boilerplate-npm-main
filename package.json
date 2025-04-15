@@ -12,8 +12,8 @@
     "url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
   },
   "author": "Joaquin-Dalmiro-Lallana",
+  "description": "This is a boilerplate to learn about npm and package.json",
   "version": "1.0.0",
-  "description": "This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/",
   "keywords": [],
   "license": "ISC",
   "bugs": {
