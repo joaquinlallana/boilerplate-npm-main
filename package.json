@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "dependencies": {
+    "@freecodecamp/example": "^1.2.13",
     "express": "^4.14.0"
   },
   "main": "server.js",
@@ -13,9 +14,9 @@
   },
   "author": "Joaquin-Dalmiro-Lallana",
   "description": "This is a boilerplate to learn about npm and package.json",
-  "version": "1.0.0",
-  "keywords": ["words", "to", "describe", "your", "project"],
-  "license": "ISC",
+  "version": "1.0.1",
+  "keywords": ["words", "to", "describe", "your", "project","freecodecamp"],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
   },
