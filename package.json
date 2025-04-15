@@ -14,7 +14,7 @@
   "author": "Joaquin-Dalmiro-Lallana",
   "description": "This is a boilerplate to learn about npm and package.json",
   "version": "1.0.0",
-  "keywords": [],
+  "keywords": ["words", "to", "describe", "your", "project"],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
